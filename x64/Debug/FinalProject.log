@@ -1,0 +1,12 @@
+﻿  FinalProject.cpp
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,43): warning C4244:         with
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,43): warning C4244:         [
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,43): warning C4244:             T=float
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,43): warning C4244:         ]
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,38): warning C4244:         with
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,38): warning C4244:         [
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,38): warning C4244:             T=float
+C:\Users\dabad\source\repos\FinalProject\FinalProject.cpp(58,38): warning C4244:         ]
+  FinalProject.vcxproj -> C:\Users\dabad\source\repos\FinalProject\x64\Debug\FinalProject.exe
